@@ -40,12 +40,12 @@
 function performOperation(secondInteger, secondDecimal, secondString) {
 
     const firstInteger = 4;
-    var sum = firstInteger + parseInt(secondInteger)
+    let sum = firstInteger + parseInt(secondInteger)
     console.log(sum)
     
 
     const firstDecimal = 4.0;
-    var sum = firstDecimal + parseFloat(secondDecimal)
+    let sum = firstDecimal + parseFloat(secondDecimal)
     console.log(sum)
 
     
