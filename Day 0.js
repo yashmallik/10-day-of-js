@@ -20,6 +20,8 @@
 *	Parameter:
 *   parameterVariable - A string of text.
 **/
+
+-------------------------------X--------------------------------X--------------------------------------------X-------------------------------------------X--------------------------X---------------------------------------------------------
 function greeting(parameterVariable) {
     // This line prints 'Hello, World!' to the console:
     console.log('Hello, World!');
