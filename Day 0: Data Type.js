@@ -35,7 +35,7 @@
 // 4.32
 // is the best place to learn and practice coding!
 
-
+-------------------X-----------------------------------X----------------------------------------------X--------------------------------------------------------------X-----------------------------------------X--------
 
 function performOperation(secondInteger, secondDecimal, secondString) {
 
