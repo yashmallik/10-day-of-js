@@ -7,22 +7,31 @@ body{
     height: 48px;
     font-size: 20px;
 }
-#btns{
+
+#btn1,#btn0{
     width: 25%;
     height: 36px;
     font-size: 18px;
     margin: 0px;
     float: left;
-}
-#btn1,#btn0{
     background-color: lightgreen;
     color: brown;
 }
 #btnClr,#btnEql{
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
     background-color: darkgreen;
     color: white;
 }
 #btnSum,#btnSub,#btnMul,#btnDiv{
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
     background-color: black;
     color:red
 }
